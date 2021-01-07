@@ -1,0 +1,35 @@
+body{
+    font-family: 'Roboto, sans-serif';
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.bg-beige{
+    background-color: rgb(232, 230, 224);
+}
+
+.bg-mongris{
+    background-color: rgb(54, 59, 71);
+}
+
+.text-mycolor{
+    color: rgb(255, 255, 255) !important
+}
+
+.red{
+    background-color: red;
+}
+
+.orange{
+    background-color: orange;
+}
+
+.heightbann{
+    height: 400px;
+}
+
+.heighttext{
+    height: 250px;
+}
